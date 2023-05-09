@@ -1,0 +1,8 @@
+numpy>=1.20.1
+scipy>=1.10.1
+matplotlib>=3.5.1
+pandas>=1.2.3
+qiskit==0.36.1
+qiskit-ignis
+gurobipy>=10.0.1
+networkx>=2.7.1
