@@ -1,6 +1,6 @@
 # H2 benchmarking data
 
-Data and analysis used in arXiv:2305.xxxx. 
+Data and analysis used in [arXiv:2305.03828](https://arxiv.org/abs/2305.03828). 
 
 ## Project Organization
 ------------
